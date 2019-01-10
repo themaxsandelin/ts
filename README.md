@@ -3,6 +3,8 @@
 
 Welcome to the course Teknik specialisering! 🙌
 
+In this course we'll be diving into Wordpress with the purpose of becoming a fully fledged Wordpress ninja. At the end of the course you will have learned how create your very own site using Wordpress and be perfectly comfortable using the CMS system on it's own. You will also learn how to create your very own custom theme and custom plugin using the Wordpress' very own API and it's built in helper functions.
+
 ## Contact details
 If you have any questions or need to get in touch with me, you can find me on the official [Slack channel](https://sw-molndal.slack.com), or reach me directly via email: [max@maxsandelin.com](mailto:max@maxsandelin.com).
 

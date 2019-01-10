@@ -20,6 +20,10 @@ This part of the lesson will help you get started setting up your localhost envi
 5.
     Lastly we'll need to create some posts for our blog. Delete the default post, and create 5 new blog posts. Each blog post should have it's own title, some basic content, and it's very own category. A blog post can have multiple categories, but there should one unique category for each post.
 
+6.
+    Get familiar with the [wp-config](https://codex.wordpress.org/Editing_wp-config.php) file. Create a new database and change the `DB_NAME` in your `wp-config.php` file. Then change back to your first database to see what happens.
+
+
 ## Resources
 
 - [Wordpress.org](https://wordpress.org/) - Wordpress
