@@ -3,7 +3,7 @@
 
 Welcome to the course Teknik specialisering! 🙌
 
-In this course we'll be diving into Wordpress with the purpose of becoming a fully fledged Wordpress ninja. At the end of the course you will have learned how create your very own site using Wordpress and be perfectly comfortable using the CMS system on it's own. You will also learn how to create your very own custom themeusing the Wordpress very own API and it's built in helper functions.
+In this course we'll be diving into Wordpress with the purpose of becoming a fully fledged Wordpress ninja. At the end of the course you will have learned how create your very own site using Wordpress and be perfectly comfortable using the CMS system on it's own. You will also learn how to create your very own custom theme using the Wordpress very own API and it's built in helper functions.
 
 At the end of the course you will be given a final assignment based on the lessons and the material we've gone through after these 6 weeks. The assignment is mandatory, and will be graded based on the work you do and how self-driven you are in the process.
 
