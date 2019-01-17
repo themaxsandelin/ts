@@ -20,7 +20,7 @@ In today's lesson we're taking a look at how to set up and manage multisites in 
     Create a dedicated page to be your landing page and configure your site to use that page as a static front page. Add the necessary theme file for the landing page and non-landing pages *(hint: `front-page`, `page`)* and make sure there is a header and a footer.
 
 5.
-    Add a headline element with your site title and a paragraph with your site description to your header element. Then create a custom menu location and output the menu in the header as well. The links should work as expected, meaning if you set the target attribute it should work as well (ex. `target="_blank"`).
+    Add a headline element with your site title and a paragraph with your site description to your header element.
     
 ## Extra
 
