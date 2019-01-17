@@ -1,5 +1,5 @@
 # 02. Multisites & Custom themes
-<img src="https://media.giphy.com/media/3oeSB0gNfJBngpse3u/giphy.gif" alt="Progress." width="600">
+<img src="https://media.giphy.com/media/l0O2R0sDjnC8GBTfa/giphy.gif" alt="Progress." width="600">
 
 In today's lesson we're taking a look at how to set up and manage multisites in Wordpress. After that we're going to start our journey on creating our very own theme for Wordpress.
 
