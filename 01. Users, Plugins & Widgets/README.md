@@ -22,6 +22,3 @@ In this lesson we'll take a look at having multiple users with different roles, 
 
 4.
     Time to add a contact form to your site. Install the [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) plugin and create a contact form. The form should have at least the following fields: Name, Email, Phone number and Message. Then place that form on the contact page on your site.
-
-
-## Resources
