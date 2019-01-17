@@ -21,6 +21,8 @@ In today's lesson we're taking a look at how to set up and manage multisites in 
 
 5.
     Add a headline element with your site title and a paragraph with your site description to your header element. Then create a custom menu location and output the menu in the header as well. The links should work as expected, meaning if you set the target attribute it should work as well (ex. `target="_blank"`).
+    
+## Extra
 
 6.
     Use [the loop](https://codex.wordpress.org/The_Loop) to output the content for your pages in both the landing page and any other page you might have. Make sure that links, images and formatting works as expected.
