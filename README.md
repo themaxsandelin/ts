@@ -13,7 +13,7 @@ At the end of the course you will be given a final assignment based on the lesso
 
 | Lesson 1 (10/01/2019) | Lesson 2 (17/01/2019)               | Lesson 3 (24/01/2019)   | Lesson 4 (31/01/2019) | Lesson 5 (07/02/2019)  | Lesson 6 (14/02/2019) |
 | --------------------- | ----------------------------------- | ----------------------- | --------------------- | ---------------------- | --------------------- |
-| Installation & Basics | Multisites & Intro to custom themes | Query posts & Templates | Custom Post Types     | Advanced Custom Fields | Final assignment      |
+| Installation & Basics | Multisites & Intro to custom themes | Query Posts & Templates | Custom Post Types     | Advanced Custom Fields | Final assignment      |
 
 ## Contact details
 If you have any questions or need to get in touch with me, you can find me on the official [Slack channel](https://sw-molndal.slack.com), or reach me directly via email: [max@maxsandelin.com](mailto:max@maxsandelin.com).
