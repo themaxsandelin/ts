@@ -1,0 +1,15 @@
+/*
+  Theme Name: Fantastic Templates
+*/
+
+.container {
+  display: flex;
+}
+
+section {
+  flex-grow: 1;
+}
+
+aside {
+  width: 30%;
+}
