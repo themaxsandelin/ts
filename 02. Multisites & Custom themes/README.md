@@ -21,11 +21,13 @@ In today's lesson we're taking a look at how to set up and manage multisites in 
 
 5.
     Add a headline element with your site title and a paragraph with your site description to your header element.
-    
+
 ## Extra
 
 6.
     Use [the loop](https://codex.wordpress.org/The_Loop) to output the content for your pages in both the landing page and any other page you might have. Make sure that links, images and formatting works as expected.
+
+    > The loop is not required for "regular" pages, that have content in them. It is however required for the posts page to output each posts.
 
 7.
     Add a dedicated theme file for the posts page, create a dedicated page in the Wordpress admin for your blog (posts page) and update your site to use that page as the posts page. Make sure it outputs the posts using [the loop](https://codex.wordpress.org/The_Loop) and that each post gets it's own link to it's own page. Finally, add the theme file for the single posts page and make sure it outputs the content with [the loop](https://codex.wordpress.org/The_Loop) as expected.
