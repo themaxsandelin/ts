@@ -1,6 +1,6 @@
 # 04. Functions & Custom Post Types
 
-<img src="https://media.giphy.com/media/A9grgCQ0Dm012/giphy.gif" alt="I've got the power!" width="600">
+<img src="https://user-images.githubusercontent.com/7646347/52047217-d3a21a80-2548-11e9-9cd5-f587e74aeaec.gif" alt="I've got the power!" width="600">
 
 I dagens lektion skall vi gå igenom [functions.php](https://codex.wordpress.org/Functions_File_Explained) filen i vårt egna tema, som är till för att anpassa Wordpress "beteende" och utöka dess funktionalitet. Vi skall även kolla på hur ni kan skapa egna post-typer ([Custom Post Types](https://codex.wordpress.org/Post_Types)).
 
