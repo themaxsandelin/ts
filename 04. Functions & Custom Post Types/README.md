@@ -27,7 +27,8 @@ I dagens lektion skall vi gå igenom [functions.php](https://codex.wordpress.org
 
     Temat skall även ha stöd för att visa varje individuellt projekt på en egen sida, vill säga att en "default page template" finns (se [Theme Development](https://codex.wordpress.org/Theme_Development) för tips om vad filen skall heta). Alltså skall det gå att klicka på ett projekt för att komma in på dess sida och läsa mer om projektet.
 
-## Extrauppgifter
+5.
+    Skapa en ny post-typ som heter "People" och se till att du definierar alla olika typer av labels för din post typ. Alltså skall det vara ett custom meddelande för varje label i `labels` listan. Post-typen skall innehålla en lista på 5 poster, och de skall endast ha support för `title`. Varje person skall ha ett namn. Två av personerna skall vara "föräldrar" för de andra 3 personerna, alltså skall post-typen vara `hierarchical` för att stödja parent posts.
 
 ## Resurser
 
