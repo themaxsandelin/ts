@@ -3,6 +3,8 @@
 
 In today's lesson we're learning how to query our blog posts in different ways through filtering and pagination, as well as how to create custom page templates for your theme.
 
+Instructional video (in Swedish) based on our live lesson: [YouTube video](https://www.youtube.com/watch?v=jsKGenI6fEM)
+
 ## Preperations
 
 - A basic Wordpress site set up locally

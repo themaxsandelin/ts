@@ -3,6 +3,8 @@
 
 In today's lesson we're taking a look at how to set up and manage multisites in Wordpress. After that we're going to start our journey on creating our very own theme for Wordpress.
 
+Instructional video (in Swedish) based on our live lesson: [YouTube video](https://www.youtube.com/watch?v=4QQ_JmdccQ0)
+
 ## Assignments
 
 1.

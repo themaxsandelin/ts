@@ -3,6 +3,8 @@
 
 In this lesson we'll take a look at having multiple users with different roles, what the widgets are and installing plugins on your Wordpress site.
 
+Instructional video (in Swedish) based on our live lesson: [YouTube video](https://www.youtube.com/watch?v=GYNsPZRyytg)
+
 ## Assignments
 
 1.

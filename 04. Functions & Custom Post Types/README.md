@@ -4,6 +4,8 @@
 
 I dagens lektion skall vi gå igenom [functions.php](https://codex.wordpress.org/Functions_File_Explained) filen i vårt egna tema, som är till för att anpassa Wordpress "beteende" och utöka dess funktionalitet. Vi skall även kolla på hur ni kan skapa egna post-typer ([Custom Post Types](https://codex.wordpress.org/Post_Types)).
 
+Instruktionsvideo (på svenska) baserat på vår lektion: [YouTube video](https://www.youtube.com/watch?v=hvVvHo_HsOo)
+
 ## Förberedelser
 
 - En enkel Wordpress site uppsatt på en lokal utvecklingsmiljö.
