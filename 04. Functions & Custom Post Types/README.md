@@ -15,7 +15,7 @@ I dagens lektion skall vi gå igenom [functions.php](https://codex.wordpress.org
     Skapa en `functions.php` fil till ditt tema och aktivera stöd för thumbnails på poster. ([Featured Images & Post Thumbnails](https://developer.wordpress.org/themes/functionality/featured-images-post-thumbnails/))
 
 2.
-    Lägg till en egen menyposition på din Wordpress-sida genom dein `functions-php` fil ([Wordpress Navigation Menus](https://codex.wordpress.org/Navigation_Menus)). Positionen kan vara var som helst, ex. i header, footer eller sidebar. Men namnet på din menyposition borde vara beskrivande till vart menyn ligger på sidan.
+    Lägg till en egen menyposition på din Wordpress-sida genom din `functions.php` fil ([Wordpress Navigation Menus](https://codex.wordpress.org/Navigation_Menus)). Positionen kan vara var som helst, ex. i header, footer eller sidebar. Men namnet på din menyposition borde vara beskrivande till vart menyn ligger på sidan.
 
     Bygg sedan in menyn i hemsidan så att du får ut alla menylänkar på sidan där du vill att de skall visas (ex. i header).
 
