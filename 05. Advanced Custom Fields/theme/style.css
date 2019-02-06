@@ -1,0 +1,37 @@
+/*
+  Theme Name: My Custom Theme
+*/
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0 30px;
+}
+
+header {
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+header .menu-header-menu-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+header .menu-header-menu-container ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+header .menu-header-menu-container ul li {
+  margin-left: 15px;
+}
+
+footer {
+  margin-top: 50px;
+}
