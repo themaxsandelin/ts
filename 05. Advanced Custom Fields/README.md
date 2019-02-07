@@ -23,7 +23,7 @@ Sätt upp en enkel Wordpress-sida. Ladda sedan ner foldern `theme` som ligger i 
     Uppdatera sedan din lista av `project` och putta ut vilka värden som valts för varje projekt i ditt eget fält. Alltså, visa vilka typer av tjänster (enligt ovan exempel) ett projekt har innefattat, och gör det direkt under titel, innan huvudinnehållet.
 
 3.
-    Skapa ett formulär på sidan med din egna post-typ som innehåller en `<select>`-lista som i sig innehåller alla val du skapade för ditt egna fält (tjänsterna). Dessa kommer behöva vara hårdkodade, då det är meckigt att få ut programmattiskt från ACF, men det är lugnt. Bygg sedan in logiken för att filtrera dina projekt baserat på vilket värde du väljer i listan. Alltså skall det funka väldigt likt hur kategori-filtret funkade för poster i en tidigare lektion. Alltså, när du valt en "tjänster" ur listan, skall sidan laddas om, och i listan skall endast projekt som innefattar den tjänsten du valt visas.
+    Skapa ett formulär på sidan med din egna post-typ som innehåller en `<select>`-lista som i sig innehåller alla val du skapade för ditt egna fält (tjänsterna). Du kan få ut vilka val som finns för ditt select-fält med [get_field_object](https://www.advancedcustomfields.com/resources/get_field_object/). Bygg sedan in logiken för att filtrera dina projekt baserat på vilket värde du väljer i listan. Alltså skall det funka väldigt likt hur kategori-filtret funkade för poster i en tidigare lektion. Alltså, när du valt en "tjänster" ur listan, skall sidan laddas om, och i listan skall endast projekt som innefattar den tjänsten du valt visas.
 
 ## Resurser
 
