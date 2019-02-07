@@ -20,7 +20,10 @@ Sätt upp en enkel Wordpress-sida. Ladda sedan ner foldern `theme` som ligger i 
 
     Skapa sedan ett nytt fält som skall vara vilken "typ av tjänst" du förmedlat i ditt projekt. Det skall vara ett `select` fält där du kan välja flera val, och valen skall alltså vara olika typer av tjänster du förmedlar i din roll som frilansare. (ex. Design, Utveckling, Copywriting, Marketing osv.)
 
+    Uppdatera sedan din lista av `project` och putta ut vilka värden som valts för varje projekt i ditt eget fält. Alltså, visa vilka typer av tjänster (enligt ovan exempel) ett projekt har innefattat, och gör det direkt under titel, innan huvudinnehållet.
 
+3.
+    Skapa ett formulär på sidan med din egna post-typ som innehåller en `<select>`-lista som i sig innehåller alla val du skapade för ditt egna fält (tjänsterna). Dessa kommer behöva vara hårdkodade, då det är meckigt att få ut programmattiskt från ACF, men det är lugnt. Bygg sedan in logiken för att filtrera dina projekt baserat på vilket värde du väljer i listan. Alltså skall det funka väldigt likt hur kategori-filtret funkade för poster i en tidigare lektion. Alltså, när du valt en "tjänster" ur listan, skall sidan laddas om, och i listan skall endast projekt som innefattar den tjänsten du valt visas.
 
 ## Resurser
 
