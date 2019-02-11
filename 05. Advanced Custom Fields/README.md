@@ -3,6 +3,8 @@
 
 Nu närmar vi oss slutat på denna fantastiska kurs med vår sista "riktiga" lektion. För att knyta ihop säcken i vårt arbete med att skapa ett eget Wordpress tema skall vi kolla på hur vi kan göra våra egna post-typer ännu bättre med egna fält.
 
+Instruktionsvideo (på svenska) baserat på vår lektion: [YouTube video](https://www.youtube.com/watch?v=GCv5so2wfQY)
+
 ## Förberedelser
 Sätt upp en enkel Wordpress-sida. Ladda sedan ner foldern `theme` som ligger i samma folder som denna fil du läser just nu (`README.md`). Detta är ett **super** enkelt Wordpress tema vi skall utgå ifrån, så släng in den i `wp-content/themes` i din Wordpress folder.
 
